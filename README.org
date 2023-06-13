@@ -1,0 +1,10 @@
+* quux-hunchentoot
+
+
+
+|---------+-------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/qitab/quux-hunchentoot.git   |
+| commit  |   |
+| systems | quux-hunchentoot |
+|---------+-------------------------------------------|
+
