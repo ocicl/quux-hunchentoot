@@ -1,10 +1,9 @@
 * quux-hunchentoot
 
+Thread pooling for hunchentoot
 
-
-|---------+-------------------------------------------|
-| source  | git:https://gitlab.common-lisp.net/qitab/quux-hunchentoot.git   |
-| commit  |   |
-| systems | quux-hunchentoot |
-|---------+-------------------------------------------|
-
+|---------+---------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/qitab/quux-hunchentoot.git |
+| commit  | a20a3d9                                                       |
+| systems | quux-hunchentoot                                              |
+|---------+---------------------------------------------------------------|
