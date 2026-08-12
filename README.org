@@ -7,4 +7,4 @@ Thread pooling for hunchentoot
 | commit  | a20a3d9                                                       |
 | systems | quux-hunchentoot                                              |
 |---------+---------------------------------------------------------------|
- 
+  
